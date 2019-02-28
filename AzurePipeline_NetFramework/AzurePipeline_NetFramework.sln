@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzurePipeline_NetFramework.API", "AzurePipeline_NetFramework.API\AzurePipeline_NetFramework.API.csproj", "{5F71B9F0-89A3-4A3D-8F20-08E753562B56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzurePipeline_NetFramework.Console", "AzurePipeline_NetFramework.Console\AzurePipeline_NetFramework.Console.csproj", "{CB656F86-ADE2-48BF-A266-C447C8B14787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F71B9F0-89A3-4A3D-8F20-08E753562B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F71B9F0-89A3-4A3D-8F20-08E753562B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F71B9F0-89A3-4A3D-8F20-08E753562B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB656F86-ADE2-48BF-A266-C447C8B14787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB656F86-ADE2-48BF-A266-C447C8B14787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB656F86-ADE2-48BF-A266-C447C8B14787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB656F86-ADE2-48BF-A266-C447C8B14787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
